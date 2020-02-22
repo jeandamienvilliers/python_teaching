@@ -1,4 +1,4 @@
-# Python Teaching material including for each material:
+# Python Teaching material including for each year:
 
 - Slides
 - Python exercises
