@@ -34,4 +34,5 @@ dependencies:
 - r-ggplot2
 - r-irkernel=1.0
 - rise
-- conda-forge::r-base=4.0.2
+- conda-forge::r-base=4.0.5
+- r-base=4.0.5
