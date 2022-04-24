@@ -8,4 +8,5 @@ dependencies:
   - bokeh
   - rise
   - pip:
-    - jupyter-contrib-nbextensions
+  - jupyter-contrib-nbextensions
+  - conda-forge::r-base=4.0.2
